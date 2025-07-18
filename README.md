@@ -8,7 +8,7 @@ Repository contains:
 - Nether/Overworld basic conversions
 - Direction and distance calculations between points
 
-## What's Included
+## What's Included?
 - `formulas.py`: Core logic and formulas, with clear comments and docstrings.
 - `examples.py`: Practical usage examples, including how to use the formulas in Python scripts and (pseudo-code) Discord slash commands.
 
