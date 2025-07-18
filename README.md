@@ -1,4 +1,4 @@
-<img width="155" height="156" alt="image" src="https://github.com/user-attachments/assets/a6d4f7e4-442b-4be4-98d8-df418615c4f3" /># ChunkBot [Main Components]
+# <img width="155" height="156" alt="ChunkBot Logo" src="https://github.com/user-attachments/assets/a6d4f7e4-442b-4be4-98d8-df418615c4f3" /> ChunkBot [Main Components]
 
 ChunkBot is a Discord bot that helps Minecraft players locate chunks, identify slime chunks, and calculate specific distances within the game. This bot was developed by MinerMends, with contributions from various members of the Minecraft community. This GitHub repository is now open-source, intended to help anyone who needs this information. If you're not a developer, you most likely don't belong here.
 
@@ -10,15 +10,17 @@ Repository contains:
 
 ## ChunkBot Examples
 ### Website
-<img width="739" height="891" alt="image" src="https://github.com/user-attachments/assets/dae00065-9047-4b33-b294-19419dac4e02"/>
-ChunkBot Calculator: https://minermends.com/chunkbots/
+[<img width="739" height="891" alt="ChunkBot Calculator" src="https://github.com/user-attachments/assets/dae00065-9047-4b33-b294-19419dac4e02"/>](https://minermends.com/chunkbots/)
+ChunkBot Calculator: [https://minermends.com/chunkbots/](https://minermends.com/chunkbots/)
 
 ### Discord Bot
-<img width="505" height="644" alt="image" src="https://github.com/user-attachments/assets/7a0ed3d1-754d-4142-a478-2f0ef5161814"/>
-Discord Bot: [https://discord.com/oauth2/authorize?client_id=1094929282196848721&permissions=2147483648&scope=applications.commands%20bot](https://discord.bots.gg/bots/1094929282196848721)
+[<img width="505" height="644" alt="Discord Bot" src="https://github.com/user-attachments/assets/7a0ed3d1-754d-4142-a478-2f0ef5161814"/>](https://discord.com/oauth2/authorize?client_id=1094929282196848721&permissions=2147483648&scope=applications.commands%20bot)
+Discord Bot: [Invite Link](https://discord.bots.gg/bots/1094929282196848721)
 
 ## What's Included?
-- `formulas.py`: Core logic and formulas, with clear comments and docstrings.
+- `formulas.py`: Core logic and formulas, with clear comments and docstrings (Python).
+- `formulas.js`: JavaScript version of the core formulas, ready for Node.js or browser use.
+- `Formulas.java`: Java version of the core formulas, ready for any Java project.
 - `examples.py`: Practical usage examples, including how to use the formulas in Python scripts and (pseudo-code) Discord slash commands.
 
 ## Quickstart
