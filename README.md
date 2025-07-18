@@ -1,15 +1,15 @@
-# Minecraft Chunk & Slime Chunk Formulas (Open Source)
+# ChunkBot [Main Components]
 
-This repository contains pure Python implementations of useful Minecraft formulas, including:
+ChunkBot is a Discord bot that helps Minecraft players locate chunks, identify slime chunks, and calculate specific distances within the game. This bot was developed by MinerMends, with contributions from various members of the Minecraft community. This GitHub repository is now open-source, intended to help anyone who needs this information. If you're not a developer, you most likely don't belong here.
+
+Repository contains:
 - Chunk coordinate and center calculations
-- Slime chunk detection (Bedrock Edition, using Mersenne Twister RNG)
-- Nether/Overworld coordinate conversions
+- Slime Chunk Calculation for Bedrock - Mersenne Twister RNG (Converted to Python)
+- Nether/Overworld basic conversions
 - Direction and distance calculations between points
 
-All code is self-contained, easy to use, and free of Discord or database dependencies. Perfect for anyone who wants to use Minecraft math in their own scripts, bots, or data analysis tools.
-
 ## What's Included
-- `formulas.py`: All the core logic and formulas, with clear comments and docstrings.
+- `formulas.py`: Core logic and formulas, with clear comments and docstrings.
 - `examples.py`: Practical usage examples, including how to use the formulas in Python scripts and (pseudo-code) Discord slash commands.
 
 ## Quickstart
