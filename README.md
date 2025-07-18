@@ -1,4 +1,4 @@
-# ChunkBot [Main Components]
+<img width="155" height="156" alt="image" src="https://github.com/user-attachments/assets/a6d4f7e4-442b-4be4-98d8-df418615c4f3" /># ChunkBot [Main Components]
 
 ChunkBot is a Discord bot that helps Minecraft players locate chunks, identify slime chunks, and calculate specific distances within the game. This bot was developed by MinerMends, with contributions from various members of the Minecraft community. This GitHub repository is now open-source, intended to help anyone who needs this information. If you're not a developer, you most likely don't belong here.
 
@@ -7,6 +7,12 @@ Repository contains:
 - Slime Chunk Calculation for Bedrock - Mersenne Twister RNG (Converted to Python)
 - Nether/Overworld basic conversions
 - Direction and distance calculations between points
+
+## ChunkBot Examples
+ChunkBot Calculator: https://minermends.com/chunkbots/
+
+### Discord Bot
+<img width="505" height="644" alt="image" src="https://github.com/user-attachments/assets/7a0ed3d1-754d-4142-a478-2f0ef5161814" />
 
 ## What's Included?
 - `formulas.py`: Core logic and formulas, with clear comments and docstrings.
