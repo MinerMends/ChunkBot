@@ -1,4 +1,8 @@
-# <img width="155" height="156" alt="ChunkBot Logo" src="https://github.com/user-attachments/assets/a6d4f7e4-442b-4be4-98d8-df418615c4f3" /> ChunkBot [Main Components]
+<p align="center">
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6eb371d6-eea3-4b7c-bdcc-038a043587bb" />
+</p>
+
+ChunkBot [Main Components]
 
 ChunkBot is a Discord bot that helps Minecraft players locate chunks, identify slime chunks, and calculate specific distances within the game. This bot was developed by MinerMends, with contributions from various members of the Minecraft community. This GitHub repository is now open-source, intended to help anyone who needs this information. If you're not a developer, you most likely don't belong here.
 
