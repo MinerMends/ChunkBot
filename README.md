@@ -9,10 +9,13 @@ Repository contains:
 - Direction and distance calculations between points
 
 ## ChunkBot Examples
+### Website
+<img width="739" height="891" alt="image" src="https://github.com/user-attachments/assets/dae00065-9047-4b33-b294-19419dac4e02" />
 ChunkBot Calculator: https://minermends.com/chunkbots/
 
 ### Discord Bot
 <img width="505" height="644" alt="image" src="https://github.com/user-attachments/assets/7a0ed3d1-754d-4142-a478-2f0ef5161814" />
+Discord Bot: [https://discord.com/oauth2/authorize?client_id=1094929282196848721&permissions=2147483648&scope=applications.commands%20bot](https://discord.bots.gg/bots/1094929282196848721)
 
 ## What's Included?
 - `formulas.py`: Core logic and formulas, with clear comments and docstrings.
