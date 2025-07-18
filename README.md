@@ -40,5 +40,9 @@ For more examples, see `examples.py`.
 
 While this code is not Discord-specific, you can easily use these formulas in your own Discord bots. See the pseudo-code in `examples.py` for a template.
 
+## Community & Support
+- **Discord:** [Join the Miner Mends Community](https://discord.gg/7B52t6wY2r)
+- **YouTube:** [Miner Mends on YouTube](https://youtube.com/minermends)
+  
 ## License
 MIT License. Free to use, modify, and share. 
